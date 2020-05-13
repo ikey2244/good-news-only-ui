@@ -43,6 +43,11 @@ export default {
   */
   modules: ['@nuxtjs/apollo'],
   apollo: {
+    defaultOptions: {
+      $query: {
+        loadingKey: 'loading'
+      }
+    },
     clientConfigs: {
       default: '~/apollo/client-configs/default.js'
     }

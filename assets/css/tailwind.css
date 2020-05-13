@@ -3,3 +3,8 @@
 @import 'tailwindcss/components';
 /* purgecss end ignore */
 @import 'tailwindcss/utilities';
+
+
+body {
+  background: #f0f4f8
+}

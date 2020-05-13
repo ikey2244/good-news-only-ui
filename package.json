@@ -15,9 +15,9 @@
     "@nuxtjs/axios": "^5.9.7",
     "graphql-tag": "^2.10.3",
     "nuxt": "^2.0.0",
-    "vue": "^2.6.6",
-    "vue-server-renderer": "^2.6.6",
-    "vue-template-compiler": "^2.6.6"
+    "vue": "^2.6.11",
+    "vue-server-renderer": "^2.6.11",
+    "vue-template-compiler": "^2.6.11"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^1.0.1",
